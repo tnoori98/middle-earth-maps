@@ -1,0 +1,15 @@
+.success-message {
+    background-color: #4d4d4d;
+    color: white;
+    padding: 10px;
+    font-family: 'Ringbearer', fantasy;
+    font-size: 1.2rem;
+    text-align: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+.success-message p {
+    margin: 0;
+}

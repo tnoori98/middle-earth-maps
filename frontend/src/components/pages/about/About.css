@@ -1,0 +1,9 @@
+.columnUL {
+    display: block;
+}
+
+.columnUL li {
+    float: left;
+    width: 50%;
+    list-style-type: none;
+}

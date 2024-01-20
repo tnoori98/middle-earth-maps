@@ -1,0 +1,68 @@
+{
+  "main.label": "Willkommen bei Middle Earth Maps",
+  "main.sublabel": "Entdecke die Welt von Mittel Erde mit unserer Karte",
+  "main.button": "Karte öffnen",
+
+  "timeline.legolasGimliOne": "Die Reise zweier Brüder beginnt, die eine Hassliebe führen beginnt",
+  "timeline.legolasGimliTwo": "Gemeinsam kämpfen sie in unzähligen Schlachten",
+  "timeline.legolasGimliThree": "Für Gondor!!",
+  "timeline.samFrodoOne": "Die Reise beginnt! Nachdem Frodo den einen Ring erhalten hat begeben Frodo und Sam sich zum Schicksalsberg",
+  "timeline.samFrodoTwo": "Auf ihrer Reise lauern viele Gefahren und sie werden von einem mysteriösen Gollum verfolgt",
+  "timeline.samFrodoThree": "Es ist vorbei. Der eine Ring wurde vernichtet",
+
+  "characters.header": "Charaktere",
+  "characters.description": "Blätter durch das Buch, um mehr über einen Charakter zu erfahren",
+
+  "nav.home": "Start",
+  "nav.map": "Karte",
+  "nav.about": "Über",
+  "nav.characters": "Charaktere",
+  "nav.profile": "Profil",
+  "nav.fraction": "Fraktion",
+  "nav.tweets": "Tweets",
+  "nav.feedback": "Feedback",
+  "nav.logout": "Abmelden",
+
+  "profile.quizHeader": "Teste dein Nerd Level",
+  "profile.buttonSettings": "Profil Einstellungen",
+  "profile.buttonQuiz": "Quiz starten",
+  "profile.settingsHeader": "Deine Profildaten ändern",
+  "profile.usernameLabel": "Benutzername",
+  "profile.emailLabel": "Email",
+  "profile.passwordLabel": "Passwort",
+  "profile.buttonChangeData": "Speichern",
+  "profile.buttonDeleteAccount": "Account vernichten",
+  "profile.receiveDataAs": "Erhalten Daten als",
+
+  "quiz.question1": "Wer war der erste Besitzer des einen Rings?",
+  "quiz.question2": "How did Gandalf escape Isengard?",
+  "quiz.question3": "What is Wormtongue’s real name?",
+  "quiz.question4": "What is the name of the giant spider who tried to eat Frodo?",
+  "quiz.question5": "What type of animal does Gollum give Frodo to eat?",
+
+  "map.pathsOf": "Wege von:",
+  "map.shire": "Das Auenland",
+  "map.rohan": "Rohan",
+  "map.gondor": "Gondor",
+  "map.mordor": "Mordor",
+  "map.visualizeTimeline": "Reise durch die Zeit",
+
+  "about.header": "Über uns",
+  "about.description": "Wir sind drei Studenten, die dir die Vielfalt bieten Mittelerde zu entdecken",
+  "about.list.item1": "Ein Karte von Mittelerde",
+  "about.list.item2": "Ein Quiz",
+  "about.list.item3": "Die Herr der Ringe Trivia",
+  "about.list.item4": "Aktuelle Tweets",
+  "about.list.item5": "Finde heraus welcher Charakter zu dir passt",
+  "about.elves": "The Elves, who called themselves the Quendi and who\n                            in lore are commonly referred to as Eldar (People of\n                            the Stars), were the first and eldest of the\n                            Children of Ilúvatar, considered the fairest and\n                            wisest of the earthly race of Arda.",
+  "about.humans": "Männer (ursprünglich Atani genannt) waren einer von mehreren\n                             Rassen, die Arda bewohnen. Sie sind die Menschen von\n                             Mittelerde und das zweite der Kinder von\n                             Ilúvatar.",
+  "about.dwarves": "Zwerge waren eine Rasse Mittelerdes, auch bekannt als\n                             die Khazâd (in ihrer eigenen Sprache) oder Casari, Naugrim,\n                             bedeutet verkrüppelte Menschen und Gonnhirrim, die Meister\n                             aus Stein.",
+  "about.orcs": "Orks waren die Hauptsoldaten der Dunklen Lords\n                             Armeen und manchmal die schwächsten (aber die zahlreichsten)\n                             ihrer Diener. Sie wurden von den Ersten geschaffen\n                             Dunkler Lord, Morgoth, vor dem ersten Zeitalter und diente\n                             ihn und später seinen Nachfolger in ihrem Streben nach\n                             dominieren Mittelerde. Bevor Oromë das zum ersten Mal fand\n                             Elben in Cuiviénen, Melkor entführte einige von ihnen\n                             und grausam verformt sie, verdreht sie in die\n                             erste Orks.",
+  "about.hobbits": "Hobbits, auch bekannt als Halblinge, waren uralt\n                             sterbliche Rasse, die in Mittelerde lebte. Obwohl\n                             Ihre genaue Herkunft ist unbekannt, sie waren ursprünglich\n                             gefunden in den nördlichen Regionen von Mittelerde und\n                             unterhalb der Täler des Anduin. Zu Beginn des\n                             Im dritten Zeitalter zogen die Hobbits nach Norden und Westen. Die meisten\n                             Ihre Rasse gründete schließlich das Land des Auenlandes\n                             im Jahr TA 1601, obwohl eine Hobbitart bekannt ist\n                             als Stoors im Anduin-Tal blieb (die Art von\n                             Hobbit Sméagol war).",
+  "about.wizards": "Die Zauberer, ursprünglich bekannt als Istari oder Heren\n                             Istarion (Orden der Zauberer) waren fünf Maiar-Geister\n                             nach Mittelerde geschickt, während sie als alte Männer verkörpert wurden\n                             Helfen Sie den Freien Völkern gegen die Bedrohung durch Sauron.",
+
+
+  "feedback.main": "Bewerte uns schlecht und du wirst nach Mordor geschickt",
+  "feedback.button": "Nach Mordor senden",
+  "feedback.success": "Wir sehen uns bald in Mordor, Du Narr"
+}

@@ -1,0 +1,155 @@
+:root {
+    --orange: rgb(219, 159, 90);
+    --blue: rgb(7, 36, 46);
+    --lightBlue: rgb(11, 52, 63);
+    --white: #f0f8ff;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.currentPageHighlight{
+    color: var(--orange)
+}
+
+.content {
+    background-image: linear-gradient(var(--blue), var(--lightBlue));
+    height: 80px;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.logo {
+    font-family: "MedievalSharp", cursive;
+    color: var(--white);
+    font-size: 35px;
+    line-height: 90px;
+    padding: 0 5%;
+    font-weight: bold;
+}
+
+ul {
+    float: right;
+    margin-right: 20px;
+}
+
+ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+button {
+    border: none;
+    background: none;
+}
+
+a {
+    font-family: "MedievalSharp", cursive;
+    color: var(--white);
+    font-size: 1.4rem;
+    text-align: center;
+    text-decoration: none;
+}
+
+.hamburger {
+    color: var(--white);
+    position: absolute;
+    float: right;
+    right: 3%;
+    top: 2.8%;
+    font-size: 35px;
+}
+
+a.active,
+a:hover {
+    color: var(--orange);
+    transition: 0.5s;
+}
+
+.contentMobile {
+    display: none;
+}
+
+@media only screen and (max-width: 750px) {
+    .characterContent {
+        max-width: 60%;
+
+    }
+}
+
+/* This is how u do responsive css, use media queries */
+@media only screen and (max-width: 1200px) {
+    .content {
+        background-color: var(--blue);
+        display: none;
+    }
+
+    .contentMobile {
+        background-image: linear-gradient(var(--blue), var(--lightBlue));
+        display: block;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .contentMobileActive {
+        width: 100%;
+        height: 100%;
+    }
+
+    .contentMobile ul {
+        float: none;
+    }
+
+    .center {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 55px;
+        align-items: center;
+    }
+
+    .contentMobile ul li {
+        display: flex;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .hamburger {
+        top: 11%;
+        right: 42%;
+    }
+
+    .logo {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .hamburger {
+        top: 11%;
+        right: 42%;
+    }
+
+    .logo {
+        margin-bottom: 60px;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .hamburger {
+        top: 20%;
+        right: 42%;
+    }
+
+    .logo {
+        margin-top: 40px;
+        margin-bottom: 60px;
+        line-height: 40px;
+    }
+}

@@ -1,0 +1,68 @@
+{
+  "main.label": "Suilad na en coe Maps",
+  "main.sublabel": "Explore i ambar -o en coe with mín map",
+  "main.button": "Edr- map",
+
+  "timeline.legolasGimliOne": "I lend -o tád brothers begins",
+  "timeline.legolasGimliTwo": "Go- hain cost.",
+  "timeline.legolasGimliThree": "An Gondor!!",
+  "timeline.samFrodoOne": "I lend begins! After Frodo received i er echor, ho a Sam are heading na Mordor",
+  "timeline.samFrodoTwo": "I tád friends encounter limb threats along i té a are followed bui a mysterious Gollum",
+  "timeline.samFrodoThree": "Ha's nia. I er echor has been destroyed",
+
+  "characters.header": "I erui a erui",
+  "characters.description": "Swipe bo er -o i book na get information nia a member -o i fellowship!",
+
+  "nav.home": "Bar",
+  "nav.map": "Map",
+  "nav.about": "Nia",
+  "nav.characters": "Characters",
+  "nav.profile": "Profile",
+  "nav.fraction": "Fraction",
+  "nav.tweets": "Tweets",
+  "nav.feedback": "Feedback",
+  "nav.logout": "Taith ed-",
+
+  "profile.quizHeader": "Test cín nerd dór",
+  "profile.buttonSettings": "I Ni",
+  "profile.buttonQuiz": "Take Quiz",
+  "profile.settingsHeader": "Change cín profile details",
+  "profile.usernameLabel": "User Est-",
+  "profile.emailLabel": "Mail",
+  "profile.passwordLabel": "Dolen peth",
+  "profile.buttonChangeData": "Varna",
+  "profile.buttonDeleteAccount": "Destroui Narn",
+  "profile.receiveDataAs": "Receive data sui",
+
+  "quiz.question1": "Who na- i erui Bearer -o i er echor?",
+  "quiz.question2": "How did Gandalf escape Isengard?",
+  "quiz.question3": "What is Wormtongue’s real name?",
+  "quiz.question4": "What is the name of the giant spider who tried to eat Frodo?",
+  "quiz.question5": "What type of animal does Gollum give Frodo to eat?",
+
+  "map.pathsOf": "Lond -o:",
+  "map.shire": "I Shire",
+  "map.rohan": "Rohan",
+  "map.gondor": "Gondor",
+  "map.mordor": "Mordor",
+  "map.visualizeTimeline": "Travel trí anand ",
+
+  "about.header": "Nia ammen",
+  "about.description": "Emme are a group -o 3 students man offer tye a varietime -o features ana explore i world -o endya cemen",
+  "about.list.item1": "I er map -o en coe",
+  "about.list.item2": "I er quiz",
+  "about.list.item3": "I hir -o i echor trivia",
+  "about.list.item4": "Latest tweets",
+  "about.list.item5": "Rad- ed- which character cin are",
+  "about.elves": "I galadrim, who called themselves i Quendi a who in golu are commonlui referred na sui Eldar (núr -o i elena), were i erui a eldest -o i hîn -o Ilúvatar, considered i fairest a wisest -o i earthlui núr -o Arda.",
+  "about.humans": "Men (initiallui named Atani) were er -o several races inhabiting Arda. Hain are i humans -o en-coe, a i second -o i hîn -o Ilúvatar.",
+  "about.dwarves": "Dwarves were a núr -o en-coe also known sui i Khazâd (in their own lammen) ben Casari, Naugrim, ind Stunted núr, a Gonnhirrim, i Masters -o sarn plural serni.",
+  "about.orcs": "Orcs were i primarui soldiers -o i dúr Lords armies a sometimes i weakest (but most rem) -o their servants. Hain were created bui i erui dúr hir, Morgoth, before i erui anrand a served hon a later hon successor in their quest na dominate en-coe. Before Oromë erui found i galadrim at Cuiviénen, Melkor kidnapped some -o hain a cruellui deformed hain, twisting hain into i erui Orcs.",
+  "about.hobbits": "Hobbits, also known sui Halflings, were an ancient fir núr i lived in en-coe. Although their exact origins are unknown, hain were initiallui found in i forodren regions -o en-coe a below i Vales -o Anduin. At i beginning -o i Third anrand, hobbits moved an a dún. Most -o their núr eventuallui founded i dór -o i Shire in i ín TA 1601, though er type -o perian known sui Stoors remained in i Anduin Vale (i type -o perian Sméagol was).",
+  "about.wizards": "I Wizards, initiallui known sui i Istari ben Heren Istarion (conn- -o Wizards), were leben Maiar spirits sent na en-coe ir embodied sui iar Men na aid i lain Peoples di threat -o Sauron.",
+
+
+  "feedback.main": "Rate ammen foeg an cin will n- send na Mordor",
+  "feedback.button": "Send na Mordor",
+  "feedback.success": "See cin in Mordor, cin fool"
+}
