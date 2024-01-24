@@ -5,6 +5,8 @@ import "../../../App";
 import { useTranslation } from "react-i18next";
 import "./Mordor.css";
 import ScaledBar from "./BarChart";
+import {showToast} from "../../../helper/show-toast";
+import {ToastContainer} from "react-toastify";
 
 export interface FeedbackModel {
     rating: number;
@@ -59,6 +61,7 @@ function Feedback() {
                 questionId: index,
                 assessmentId: 1
             };
+
             await defaultFeedbackApi
                 .commitFeedback(newFeedbackModel)
                 .then((response) => {
@@ -93,8 +96,8 @@ function Feedback() {
     };
 
     return (
-        <div>
-            <div className="main-container">
+        <div className={"main-container"}>
+            <div>
                 <>
                     <h1>{t("feedback.main")}</h1>
                     {feedbackResponse &&
@@ -135,6 +138,10 @@ function Feedback() {
                         value={t("feedback.button").toString()}
                         onClick={submitHandler}
                     />
+                    <hr />
+                    {feedbackSent && (
+                        <h1>{t("feedback.success").toString() + averageRating.toFixed(2)}</h1>
+                    )}
                 </>
             </div>
         </div>

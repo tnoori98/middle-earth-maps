@@ -2,6 +2,7 @@ import React from "react";
 import "./About.css";
 import { useTranslation } from "react-i18next";
 import {Link, useLocation} from "react-router-dom";
+import {Box} from "rebass";
 
 function About() {
     const currentPath = window.location.pathname;
@@ -35,7 +36,6 @@ function About() {
                 )}
                 {currentPath === "/about/elf" ? (
                     <>
-                        <h1> About you </h1>
                         <p className={"text-center"}>{t("about.elves")}</p>
                     </>
                 ) : (
@@ -43,7 +43,6 @@ function About() {
                 )}
                 {currentPath === "/about/dwarf" ? (
                     <>
-                        <h1> About you </h1>
                         <p className={"text-center"}>{t("about.dwarves")}</p>
                     </>
                 ) : (
@@ -51,7 +50,6 @@ function About() {
                 )}
                 {currentPath === "/about/human" ? (
                     <>
-                        <h1> About you </h1>
                         <p className={"text-center"}>{t("about.humans")}</p>
                     </>
                 ) : (
@@ -59,7 +57,6 @@ function About() {
                 )}
                 {currentPath === "/about/orc" ? (
                     <>
-                        <h1> About you </h1>
                         <p className={"text-center"}>{t("about.orcs")}</p>
                     </>
                 ) : (
@@ -67,7 +64,6 @@ function About() {
                 )}
                 {currentPath === "/about/wizard" ? (
                     <>
-                        <h1> About you </h1>{" "}
                         <p className={"text-center"}>{t("about.wizards")}</p>
                     </>
                 ) : (
@@ -75,9 +71,8 @@ function About() {
                 )}
                 {currentPath === "/about/hobbit" ? (
                     <>
-                        <h1> About you </h1>
                         <p className={"text-center"}>
-                            {t("about.hobbts")}
+                            {t("about.hobbits")}
                         </p>{" "}
                     </>
                 ) : (
